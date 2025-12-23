@@ -46,9 +46,5 @@ npm run preview
 
 ## Deployment (Netlify / Cloudflare Pages / Vercel)
 
-This project includes:
-- `public/_redirects` (for Netlify / Cloudflare Pages)
-- `vercel.json` (for Vercel)
-
 So reloading any route should not show a 404.
 

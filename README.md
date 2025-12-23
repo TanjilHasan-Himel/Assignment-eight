@@ -44,7 +44,7 @@ npm run build
 npm run preview
 ```
 
-## Deployment (Netlify / Cloudflare Pages / Vercel)
+## Deployment Link: https://lotsheroapps.netlify.app/
 
 So reloading any route should not show a 404.
 

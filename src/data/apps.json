@@ -1,0 +1,530 @@
+[
+  {
+    "image": "/assets/demo-app (1).webp",
+    "title": "Pulse Notes",
+    "companyName": "Pulse Labs",
+    "id": 1,
+    "description": "Pulse Notes is built by Pulse Labs to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 119,
+    "reviews": 20072,
+    "ratingAvg": 4.07,
+    "downloads": 5483012,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1003
+      },
+      {
+        "name": "2 star",
+        "count": 1605
+      },
+      {
+        "name": "3 star",
+        "count": 2408
+      },
+      {
+        "name": "4 star",
+        "count": 5018
+      },
+      {
+        "name": "5 star",
+        "count": 10038
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (2).webp",
+    "title": "SkyChat",
+    "companyName": "Nimbus Inc.",
+    "id": 2,
+    "description": "SkyChat is built by Nimbus Inc. to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 228,
+    "reviews": 9794,
+    "ratingAvg": 4.07,
+    "downloads": 860111,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 489
+      },
+      {
+        "name": "2 star",
+        "count": 783
+      },
+      {
+        "name": "3 star",
+        "count": 1175
+      },
+      {
+        "name": "4 star",
+        "count": 2448
+      },
+      {
+        "name": "5 star",
+        "count": 4899
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (3).webp",
+    "title": "FitForge",
+    "companyName": "Forge Health",
+    "id": 3,
+    "description": "FitForge is built by Forge Health to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 111,
+    "reviews": 12637,
+    "ratingAvg": 4.07,
+    "downloads": 9040608,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 631
+      },
+      {
+        "name": "2 star",
+        "count": 1010
+      },
+      {
+        "name": "3 star",
+        "count": 1516
+      },
+      {
+        "name": "4 star",
+        "count": 3159
+      },
+      {
+        "name": "5 star",
+        "count": 6321
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (4).webp",
+    "title": "ZenFocus",
+    "companyName": "CalmWorks",
+    "id": 4,
+    "description": "ZenFocus is built by CalmWorks to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 147,
+    "reviews": 119536,
+    "ratingAvg": 4.07,
+    "downloads": 1023060,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5976
+      },
+      {
+        "name": "2 star",
+        "count": 9562
+      },
+      {
+        "name": "3 star",
+        "count": 14344
+      },
+      {
+        "name": "4 star",
+        "count": 29884
+      },
+      {
+        "name": "5 star",
+        "count": 59770
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (5).webp",
+    "title": "ByteWallet",
+    "companyName": "ByteFin",
+    "id": 5,
+    "description": "ByteWallet is built by ByteFin to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 40,
+    "reviews": 5214,
+    "ratingAvg": 4.07,
+    "downloads": 3652037,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 260
+      },
+      {
+        "name": "2 star",
+        "count": 417
+      },
+      {
+        "name": "3 star",
+        "count": 625
+      },
+      {
+        "name": "4 star",
+        "count": 1303
+      },
+      {
+        "name": "5 star",
+        "count": 2609
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (6).webp",
+    "title": "Canvas Pro",
+    "companyName": "Canvas Studio",
+    "id": 6,
+    "description": "Canvas Pro is built by Canvas Studio to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 35,
+    "reviews": 55110,
+    "ratingAvg": 4.07,
+    "downloads": 7325367,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2755
+      },
+      {
+        "name": "2 star",
+        "count": 4408
+      },
+      {
+        "name": "3 star",
+        "count": 6613
+      },
+      {
+        "name": "4 star",
+        "count": 13777
+      },
+      {
+        "name": "5 star",
+        "count": 27557
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (1).webp",
+    "title": "StudySprint",
+    "companyName": "Sprint Edu",
+    "id": 7,
+    "description": "StudySprint is built by Sprint Edu to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 159,
+    "reviews": 12189,
+    "ratingAvg": 4.07,
+    "downloads": 4087655,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 609
+      },
+      {
+        "name": "2 star",
+        "count": 975
+      },
+      {
+        "name": "3 star",
+        "count": 1462
+      },
+      {
+        "name": "4 star",
+        "count": 3047
+      },
+      {
+        "name": "5 star",
+        "count": 6096
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (2).webp",
+    "title": "QuickCart",
+    "companyName": "Cartify",
+    "id": 8,
+    "description": "QuickCart is built by Cartify to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 229,
+    "reviews": 8047,
+    "ratingAvg": 4.07,
+    "downloads": 7172250,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 402
+      },
+      {
+        "name": "2 star",
+        "count": 643
+      },
+      {
+        "name": "3 star",
+        "count": 965
+      },
+      {
+        "name": "4 star",
+        "count": 2011
+      },
+      {
+        "name": "5 star",
+        "count": 4026
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (3).webp",
+    "title": "TuneBox",
+    "companyName": "TuneBox Media",
+    "id": 9,
+    "description": "TuneBox is built by TuneBox Media to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 179,
+    "reviews": 29560,
+    "ratingAvg": 4.07,
+    "downloads": 2127052,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1478
+      },
+      {
+        "name": "2 star",
+        "count": 2364
+      },
+      {
+        "name": "3 star",
+        "count": 3547
+      },
+      {
+        "name": "4 star",
+        "count": 7390
+      },
+      {
+        "name": "5 star",
+        "count": 14781
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (4).webp",
+    "title": "SafeGuard",
+    "companyName": "SecureX",
+    "id": 10,
+    "description": "SafeGuard is built by SecureX to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 167,
+    "reviews": 75942,
+    "ratingAvg": 4.07,
+    "downloads": 1087872,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3797
+      },
+      {
+        "name": "2 star",
+        "count": 6075
+      },
+      {
+        "name": "3 star",
+        "count": 9113
+      },
+      {
+        "name": "4 star",
+        "count": 18985
+      },
+      {
+        "name": "5 star",
+        "count": 37972
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (5).webp",
+    "title": "TravelTrail",
+    "companyName": "TrailWay",
+    "id": 11,
+    "description": "TravelTrail is built by TrailWay to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 74,
+    "reviews": 6799,
+    "ratingAvg": 4.07,
+    "downloads": 6705194,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 339
+      },
+      {
+        "name": "2 star",
+        "count": 543
+      },
+      {
+        "name": "3 star",
+        "count": 815
+      },
+      {
+        "name": "4 star",
+        "count": 1699
+      },
+      {
+        "name": "5 star",
+        "count": 3403
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (6).webp",
+    "title": "MealMate",
+    "companyName": "KitchenMate",
+    "id": 12,
+    "description": "MealMate is built by KitchenMate to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 237,
+    "reviews": 73263,
+    "ratingAvg": 4.07,
+    "downloads": 831527,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3663
+      },
+      {
+        "name": "2 star",
+        "count": 5861
+      },
+      {
+        "name": "3 star",
+        "count": 8791
+      },
+      {
+        "name": "4 star",
+        "count": 18315
+      },
+      {
+        "name": "5 star",
+        "count": 36633
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (1).webp",
+    "title": "PhotoSpark",
+    "companyName": "Spark Imaging",
+    "id": 13,
+    "description": "PhotoSpark is built by Spark Imaging to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 125,
+    "reviews": 38259,
+    "ratingAvg": 4.07,
+    "downloads": 2284302,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1912
+      },
+      {
+        "name": "2 star",
+        "count": 3060
+      },
+      {
+        "name": "3 star",
+        "count": 4591
+      },
+      {
+        "name": "4 star",
+        "count": 9564
+      },
+      {
+        "name": "5 star",
+        "count": 19132
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (2).webp",
+    "title": "TaskPilot",
+    "companyName": "PilotSoft",
+    "id": 14,
+    "description": "TaskPilot is built by PilotSoft to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 48,
+    "reviews": 71168,
+    "ratingAvg": 4.07,
+    "downloads": 2470198,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3558
+      },
+      {
+        "name": "2 star",
+        "count": 5693
+      },
+      {
+        "name": "3 star",
+        "count": 8540
+      },
+      {
+        "name": "4 star",
+        "count": 17792
+      },
+      {
+        "name": "5 star",
+        "count": 35585
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (3).webp",
+    "title": "KidCoder",
+    "companyName": "CodeKids",
+    "id": 15,
+    "description": "KidCoder is built by CodeKids to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 226,
+    "reviews": 73734,
+    "ratingAvg": 4.07,
+    "downloads": 5225466,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3686
+      },
+      {
+        "name": "2 star",
+        "count": 5898
+      },
+      {
+        "name": "3 star",
+        "count": 8848
+      },
+      {
+        "name": "4 star",
+        "count": 18433
+      },
+      {
+        "name": "5 star",
+        "count": 36869
+      }
+    ]
+  },
+  {
+    "image": "/assets/demo-app (4).webp",
+    "title": "WeatherWave",
+    "companyName": "WaveCast",
+    "id": 16,
+    "description": "WeatherWave is built by WaveCast to help you do more with less effort. Fast, clean and reliable experience across devices.",
+    "size": 166,
+    "reviews": 13807,
+    "ratingAvg": 4.07,
+    "downloads": 3082085,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 690
+      },
+      {
+        "name": "2 star",
+        "count": 1104
+      },
+      {
+        "name": "3 star",
+        "count": 1656
+      },
+      {
+        "name": "4 star",
+        "count": 3451
+      },
+      {
+        "name": "5 star",
+        "count": 6906
+      }
+    ]
+  }
+]
